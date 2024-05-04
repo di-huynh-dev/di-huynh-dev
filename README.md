@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactQuery%20Code-282C34?logo=react-query&logoColor=#FF4154" alt="React query logo" title="React query" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ReactQuery-282C34?logo=react-query&logoColor=#FF4154" alt="React query logo" title="React query" height="25" /></span>
 &nbsp;
 
 <br>

@@ -25,6 +25,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactQuery-282C34?logo=react-query&logoColor=#FF4154" alt="React query logo" title="React query" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/DaisyUI-282C34?logo=daisyui&logoColor=#5A0EF8" alt="DaisyUI logo" title="Daisy UI" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=#007FFF" alt="MUI logo" title="MUI" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

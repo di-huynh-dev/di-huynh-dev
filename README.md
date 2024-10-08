@@ -1,4 +1,5 @@
 <h1 align="center">"Hello World!" 👋, I'm Steve Huynh</h1>
+<div align="center"> <img src="https://github.com/di-huynh-dev/di-huynh-dev/blob/main/Web%20Developer.png"> </div>
 <h3 align="center">A passionate Web developer from Ho Chi Minh city, Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=di-huynh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="di-huynh-dev" /> </p>
